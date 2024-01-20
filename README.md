@@ -8,7 +8,7 @@ I'm Verina, a **Data Science student** at the **Faculty of Computing and Data Sc
 <!--  github stats -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&layout=compact&theme=material-palenight"
+    srcset="https://github-readme-stats.vercel.app/api?username=verinak&show_icons=true&rank_icon=github&theme=material-palenight"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -48,17 +48,18 @@ Here's what I've been doing at university until now..<br/><br/>
 </div>
 <br/>
 
+
 <!-- most used languages -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&hide=jupyter%20notebook,dart&layout=compact&theme=github_dark_dimmed"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&layout=compact&theme=material-palenight&hide=dart%2Cjupyter%20notebook"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&hide=jupyter%20notebook,dart&layout=compact"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&layout=compact&hide=dart%2Cjupyter%20notebook"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&hide=jupyter%20notebook,dart&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verinak&layout=compact&hide=dart%2Cjupyter%20notebook"/>
 </picture>
 <br/>
 
