@@ -77,9 +77,16 @@ Here's what I've been doing at university until now..<br/><br/>
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=regression-analysis-application&theme=transparent&border_color=666b6e"/> 
   </a>
   <br/>
+
+  <!-- stochastic -->
+  <a href="https://github.com/verinak/hidden-markov-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=hidden-markov-app&theme=transparent&border_color=666b6e"/> 
+  </a>
+  <br/>
 </div>
 
-## Currently working on 🔍👩🏻‍💻
+
+<!-- ## Currently working on 🔍👩🏻‍💻
 
 - Machine Learning
     - 📌 [Supervised Machine Learning: Regression and Classification on Coursera](https://www.coursera.org/learn/machine-learning)
@@ -87,13 +94,11 @@ Here's what I've been doing at university until now..<br/><br/>
 - Google Data Analytics Certification
     - 📌 [Google Data Analytics Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/google-data-analytics)
 - 🔜 Intermediate Docker
-<!-- - 🔜 AWS -->
 - APIs
   - ✅ [Using an API](https://www.youtube.com/playlist?list=PLatMCiRUvJMIDUnH-dzaTWvsF2d8jc9dE)
   - 🔜 Building an API
-<!-- - 🔜 Web Scraping -->
 
-<br/>
+<br/> -->
 
 ## Connect with me 📱
 
