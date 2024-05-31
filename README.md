@@ -107,7 +107,7 @@ Here's what I've been doing at university until now..<br/><br/>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="gmail"></img>
 </a>
 <!-- linkedin -->
-<a href="https://www.linkedin.com/in/verina-michel-165237266">
+<a href="https://www.linkedin.com/in/verina-khella-165237266/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="linkedin"></img>
 </a>
 
