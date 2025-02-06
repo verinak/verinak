@@ -60,53 +60,6 @@ I'm Verina, a **Data Science student** at the **Faculty of Computing and Data Sc
 </picture>
 <br/>
 
-## Highlighted Projects 📁
-
-<!-- Check my portfolio [here]() -->
-
-<div style="display: flex; flex-flow: row wrap;">
-  <!-- university-projects repo -->
-  <div style="padding: 5px;">
-  <p>A Collection of my Small University Projects</p>
-  <a href="https://github.com/verinak/university-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=university-projects&theme=transparent&border_color=666b6e"/>
-  </a>
-  </div>
-
-  <!-- iot -->
-  <div style="padding: 5px;">
-  <p>Arduino Mechinal Ventlator</p>
-  <a href="https://github.com/verinak/iot-sessions/tree/main/Final%20Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=iot-sessions&theme=transparent&border_color=666b6e"/>
-  </a>
-  </div>
-
-  <!-- myhackerrank -->
-  <div style="padding: 5px;">
-  <p>Hackerrank Replica using NodeJS </p>
-  <a href="https://github.com/verinak/my-hackerrank-demo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=my-hackerrank-demo&theme=transparent&border_color=666b6e"/>
-  </a>
-  </div>
-  
-  <!-- regression -->
-  <div style="padding: 5px;">
-  <p>Linear Regression Implementation and UI in R</p>
-  <a href="https://github.com/verinak/regression-analysis-application">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=regression-analysis-application&theme=transparent&border_color=666b6e"/> 
-  </a>
-  </div>
-
-  <!-- stochastic -->
-  <div style="padding: 5px;">
-  <p>Hidden Markov Chain Implementation and UI in Python</p>
-  <a href="https://github.com/verinak/hidden-markov-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=verinak&repo=hidden-markov-app&theme=transparent&border_color=666b6e"/> 
-  </a>
-  </div>
-
-</div>
-
 ## Connect with me 📱
 
 <!-- email -->
@@ -122,5 +75,7 @@ I'm Verina, a **Data Science student** at the **Faculty of Computing and Data Sc
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=ffffff" alt="medium"></img>
 </a>
 <br/><br/>
+
+<!-- Check my portfolio [here]() -->
 
 profile picture credit: [_夜ナ夜ナ by 2g on picrew_](https://picrew.me/en/image_maker/1979868)
